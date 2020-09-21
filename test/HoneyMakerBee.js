@@ -10,7 +10,7 @@ describe('HoneyMakerBee class functionality', () => {
   });
 
   it('should have a job property that is set to `make honey`', () => {
-    expect(honeyBee.job).to.equal('make honey')
+    expect(honeyBee.job).to.equal('make honey');
   });
 
   /*  Inherited from superclass  */
